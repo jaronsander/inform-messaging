@@ -1,2 +1,6 @@
 .DS_Store
 .env
+
+/nanobanana-output
+
+/raw_files
