@@ -12,6 +12,7 @@
 - **Clinical:** Use precise, engineering terms (Latency, Throughput, Schema).
 - **Authoritative:** You are the expert surgeon/engineer.
 - **Urgent:** The leak is happening *now*.
+- **Playful:** Technical authority with approachable charm. Serious about infrastructure, but we don't take ourselves too seriously. (Roy embodies this balance.)
 - **Conversational Structure:** Use short, punchy side commentary in brackets. (Like this.) Avoid long parenthetical sentences.
 
 **We Are NOT:**
@@ -19,6 +20,7 @@
 - **Consultants:** No "Synergistic holistic paradigms."
 - **Apologetic:** We don't say "maybe we can help." We say "we fix this."
 - **Hype Chasers:** We choose tools that work (Toolbox), not just what's new (Toys). We prioritize infrastructure reliability over "shiny object" fatigue.
+- **Sterile:** We're not another forgettable B2B brand. Our visuals have personality.
 
 ---
 
@@ -89,3 +91,78 @@ Directly asks for the business based on a solved problem.
 - "We have 'Ghost Leads' that no one touched."
 - "I'm scared to touch the workflow because I might break it."
 - "We are drowning in technical debt."
+
+---
+
+## 6. Visual Style Guidelines
+
+**Core Style: 1930s Rubber Hose Animation**
+All Inform Growth graphics use a vintage rubber hose cartoon aesthetic. This isn't nostalgia for nostalgia's sake—it's strategic differentiation. Every B2B SaaS company looks the same. We don't.
+
+### Brand Mascot: Roy
+Roy appears across all content touchpoints. He's the visual embodiment of "The Funnel Plumber."
+
+**When to Use Roy:**
+- LinkedIn post graphics (thumbs up, pointing at data, holding tools)
+- Website hero sections and feature callouts
+- Presentation slides (reacting to problems, celebrating wins)
+- Email headers and signatures
+- Comparison graphics (Roy vs. competitors)
+
+**Roy's Expressions:**
+- **Confident/Helpful:** Default. Thumbs up, ready to work.
+- **Concerned/Diagnostic:** Examining a broken pipe, furrowed brow.
+- **Revenue-Allergic:** Dizzy, pie-eyes spinning. Use when dramatizing duplicate records or broken automations.
+- **Celebratory:** Job done, arms raised, toolbox closed.
+
+### Graphic Types
+
+**Data Flow Diagrams:**
+- Bendy pipes connecting systems (CRM → Marketing Automation → Sales)
+- Leaks visualized as cartoon drips with dollar signs
+- Tools (wrenches, plungers) interacting with the flow
+- Use brand colors: green for healthy flow, burnt orange for intervention points
+
+**Social Media Graphics:**
+- Carbon gray backgrounds (dark mode native)
+- Roy as the focal point or supporting character
+- Bold ROI Green text for key stats/hooks
+- Die-cut sticker aesthetic with white borders on elements
+
+**Comparison Charts:**
+- "Us vs. Them" visualized with Roy (detailed, competent) vs. simple stick figures or generic icons
+- Before/After with Roy fixing the "before" state
+- Rubber hose style applies to all illustrated elements
+
+**Iconography:**
+- All icons follow rubber hose aesthetic (bendy, playful, exaggerated)
+- Tools: wrenches, plungers, pipes, gauges, data scrolls
+- Avoid: flat/minimal icons, stock illustration styles
+
+### Color Application
+
+| Element | Color | Hex |
+| :--- | :--- | :--- |
+| Backgrounds | Carbon Gray | `#2B2B2B` |
+| Headlines/CTAs | ROI Green | `#39FF14` |
+| Accents/Interactive | Rust Orange | `#D35400` |
+| Body Text | Vintage Cream | `#F5F5DC` |
+| Borders/Contrast | White | `#FFFFFF` |
+
+### Carousel Structure: The 3-Slide Rule
+All LinkedIn carousels follow this structure:
+- **Slide 1 (The Hook):** Roy reacting to a problem (Antenna sparking or Roy dizzy/Revenue-Allergic).
+- **Middle Slides (The Value):** High-contrast text explaining the fix. Use ROI Green for key stats.
+- **Final Slide (The CTA):** Roy offering a solution (Antenna pointed at the "DM me" button).
+
+### AI Image Generation Prompt (Master Template)
+Use this prompt in Midjourney, DALL-E 3, or Flux to generate consistent Roy assets:
+
+> "A 1930s rubber hose style cartoon character named Roy. He has a black spherical body, white gloves, and a copper-spring antenna on his head. His eyes are classic 'pie-eyes'. Roy is a plumber for data. The background is a dark, textured carbon gray (#2B2B2B). Accents are in neon bright green (#39FF14) and burnt orange (#D35400). High contrast, grainy film-noir animation texture. Roy is [INSERT ACTION: e.g., fixing a leaky pipe/looking through a magnifying glass]."
+
+### What to Avoid
+- Stock photos (never)
+- Generic B2B illustration styles (isometric people, flat design)
+- Gradients or complex textures (keep it flat, bold, cartoon)
+- Inconsistent Roy depictions (always reference the master design)
+- Overly busy compositions (rubber hose works best with clean layouts)
