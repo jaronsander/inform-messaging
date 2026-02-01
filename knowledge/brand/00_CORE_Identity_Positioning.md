@@ -38,7 +38,7 @@ Roy is the official Inform Growth mascot. He appears across all touchpoints (web
 - **The Head-Port:** Roy's head can flip open to reveal a glowing USB-C port. This represents the "Observability" and "AI Integration" phase of the engagement.
 - **The Overflowing Toolbox:** Roy holds a heavy-duty classic metal mechanic's toolbox (dark grey body, rust orange handles/clasps). It's stuffed full and overflowing with cartoon tools—a pipe wrench (Process), a magnifying glass (Data Audit), screwdrivers with green handles, a hammer, rolled-up blueprints or data scrolls. Tools share the bendy rubber-hose aesthetic.
 - **Signature Pose:** Holding the heavy toolbox in one hand while giving a confident thumbs-up with the other.
-- **The Quirk:** Roy is "Revenue-Allergic." He gets dizzy (pie-eyes spinning) in the presence of duplicate records or broken automations. Use this expression in content to dramatize data quality problems.
+- **The Power (Detection Lock):** When Roy's antenna locks onto a missed revenue opportunity or dormant account, his eyes go pie-eyed and the antenna sparks green — that's the signal firing. The dizzy expression isn't a weakness; it's what detection looks like in action. Use this in content to show Roy *finding* the leak.
 - **Presentation:** Die-cut vinyl sticker style with thick white border. Carbon gray backgrounds for dark mode interfaces.
 
 **Brand Colors:**

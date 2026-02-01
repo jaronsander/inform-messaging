@@ -112,7 +112,7 @@ Roy appears across all content touchpoints. He's the visual embodiment of "The F
 **Roy's Expressions:**
 - **Confident/Helpful:** Default. Thumbs up, ready to work.
 - **Concerned/Diagnostic:** Examining a broken pipe, furrowed brow.
-- **Revenue-Allergic:** Dizzy, pie-eyes spinning. Use when dramatizing duplicate records or broken automations.
+- **Detection Lock:** Pie-eyes spinning, antenna sparking green. Roy just locked onto a missed revenue opportunity. Use when showing him finding a leak or dormant account — it's the power activating, not a reaction.
 - **Celebratory:** Job done, arms raised, toolbox closed.
 
 ### Graphic Types
@@ -151,7 +151,7 @@ Roy appears across all content touchpoints. He's the visual embodiment of "The F
 
 ### Carousel Structure: The 3-Slide Rule
 All LinkedIn carousels follow this structure:
-- **Slide 1 (The Hook):** Roy reacting to a problem (Antenna sparking or Roy dizzy/Revenue-Allergic).
+- **Slide 1 (The Hook):** Roy in Detection Lock — antenna sparking, pie-eyes firing. He just found the leak.
 - **Middle Slides (The Value):** High-contrast text explaining the fix. Use ROI Green for key stats.
 - **Final Slide (The CTA):** Roy offering a solution (Antenna pointed at the "DM me" button).
 
