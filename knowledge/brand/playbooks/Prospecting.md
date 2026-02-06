@@ -59,10 +59,10 @@ My proposal: Let me come in as a tactical consultant for 3 weeks. I’ll perform
 ## 3. Qualification Checklist
 
 **Must-Haves (The Green Lights):**
-- [ ] B2B SaaS or High-Volume Service.
+- [ ] B2B SaaS, Platform + Services hybrid, or Tech-Enabled Service (especially with subscription/upsell components).
 - [ ] $5M+ ARR (Series B+).
 - [ ] Actively Hiring RevOps/Sales roles (Signals pain/growth).
-- [ ] Using Salesforce or HubSpot + 5-10 other tools.
+- [ ] Using Salesforce, HubSpot, or Attio + 5-10 other tools.
 
 **Red Flags (Walk Away):**
 - [ ] "Can you just build us a custom app?" (We are infrastructure, not dev shops).

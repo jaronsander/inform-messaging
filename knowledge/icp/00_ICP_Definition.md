@@ -7,21 +7,32 @@
 
 ### Firmographics
 *   **Company Stage:**
-    *   **SaaS:** Series B, C, or growth-stage ($5M+ ARR).
-    *   **Service Businesses:** High-volume, tech-enabled services (Series B+ equivalent).
-*   **Revenue Model:** B2B SaaS or High-Volume Service.
+    *   **B2B SaaS:** Series B, C, or growth-stage ($5M+ ARR).
+    *   **Tech-Enabled Service Businesses:** High-volume, tech-enabled services (Series B+ equivalent). Especially those with:
+        *   Services arm attached to SaaS subscriptions (hybrid model)
+        *   Platform/software component alongside service delivery
+        *   Upsell motion from services to recurring subscriptions
+        *   Digital communities with membership + services
+*   **Revenue Model:** B2B SaaS, Platform + Services hybrid, or High-Volume Service with subscription components.
 *   **Contract Value:** $25K-500K+ ACV.
 *   **Sales Cycle:** 60-180 days.
 *   **Employees:** 50-300 employees.
 *   **Growth:** Growing 40-100%+ YoY.
-*   **Tech Stack:** Salesforce (primary), HubSpot, or Attio. Using 10+ SaaS tools in their GTM stack.
+*   **Tech Stack:** Agnostic but advanced. Typically Salesforce, HubSpot, or Attio. Often using 10+ SaaS tools in their GTM stack (Outreach, Salesloft, Gong, 6sense, ZoomInfo).
+
+### Budget & Maturity Indicators
+*   **Roles:** Presence of "VP of RevOps," "Head of Operations," or "Salesforce Administrator" (implies they value infrastructure).
+*   **Tech Spend:** Usage of expensive tier tools (Salesforce, HubSpot Enterprise, Clari, 6sense).
+*   **Pain Signal:** High headcount in data-entry roles or "Sales Ops" performing manual tasks.
 
 ### Psychographics (Buying Signals)
 *   **Pain Points:**
+    *   "Drowning in **manual entry**."
+    *   "Cannot **maintain hygiene** across large datasets."
+    *   "Sales reps wasting 20% of time on admin/cleanup."
+    *   "Data silos between 'Service Delivery' and 'Sales'."
     *   "I can't trust our pipeline reports."
-    *   "Sales and marketing blame each other over attribution."
     *   "We just paid for a cleanup and it's degrading again."
-    *   "We're hiring fast and terrified our systems will break."
 *   **Goals:**
     *   Wants to deploy AI/automation but data is too messy.
     *   Needs to prepare for a fundraise or exit (data room prep).

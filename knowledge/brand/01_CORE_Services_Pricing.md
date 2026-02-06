@@ -63,4 +63,5 @@ We don't sell "packages" or "hours." We sell **Revenue Recovery** and **Flow Ass
 ## 3. Delivery Philosophy
 - **Engineers, not Marketers:** We build durable infrastructure, not campaigns.
 - **Pattern Recognition:** Our "Observatory" rules are based on 4M+ contacts of data. We've seen the same 100 mistakes everywhere.
+- **Platform-Agnostic Strategy:** We design the system architecture first, then select the right platform for your business. Primary implementation focus: HubSpot, Salesforce, Attio (for fastest deployment). Extensive experience across 15+ platforms ensures strategy isn't constrained by tool limitations.
 - **Player-Coach Model:** Jaron owns the architecture; vetted team handles execution.
