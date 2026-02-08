@@ -1,6 +1,25 @@
 .DS_Store
 .env
+.mcp.json
 
 /nanobanana-output
-
 /raw_files
+
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Background removal tooling
+background_removal/
+/scripts/
+/requirements.txt
+
+# Website & Roy assets (archived)
+/websites/
+/public/
+/website_design_plan*.md
+**/roy/
+knowledge/brand/roy_master_reference.png

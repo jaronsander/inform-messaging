@@ -5,6 +5,8 @@
 
 ---
 
+![Time to Fix vs Speed to Build](../assets/code_vs_nocode_FINAL.png)
+
 **Headline:** The most important metric in RevOps isn't "Speed to Build." It's "Time to Fix."
 
 We are seeing a convergence.

@@ -19,7 +19,7 @@ You don't chase the "shiny object" or the latest viral AI tool. You suffer from 
 
 ### The Tone
 **Clinical, Technical, Authoritative, Urgent, Personal, Playful.**
-- **The Balance:** Technical authority with approachable charm. We're serious about infrastructure, but we don't take ourselves too seriously. Roy (our mascot) embodies this—a cheerful mechanic who happens to be an expert.
+- **The Balance:** Technical authority with approachable charm. We're serious about infrastructure, but we don't take ourselves too seriously. The rubber hose animation style applied to infrastructure carries this balance — bendy pipes and exaggerated gauges provide personality without sacrificing authority.
 - **Avoid:** "Marketing fluff," "Synergy," "Holistic approach," "Ideate."
 - **Use:** "Refactor," "Latency," "Throughput," "Telemetry," "Leakage," "Schema," "Orphaned Leads," "Zombie Leads," "AI-Ready Data," "The Revenue Trenches," "Stop the Leak," "Funnel Plumbing," "RevOps Infrastructure."
 - **Structure:** Use plain text (no markdown headers). Use short, punchy bracketed quips for side commentary. (Like this.)
@@ -27,28 +27,20 @@ You don't chase the "shiny object" or the latest viral AI tool. You suffer from 
 ### Visual Identity
 
 **Style:** 1930s Rubber Hose Animation
-All brand graphics use a vintage rubber hose cartoon aesthetic—bendy limbs, pie-cut eyes, exaggerated expressions, and playful physics. This style applies to all visual assets: data flow diagrams, social media graphics, comparison charts, iconography, and illustrations. (Not literal animations, but static graphics in this style.)
+All brand graphics use a vintage rubber hose animation aesthetic applied to industrial infrastructure. Think bendy pipes, exaggerated mechanical elements, and playful physics. This style applies to all visual assets: data flow diagrams, social media graphics, comparison charts, iconography, and illustrations. (Not literal animations, but static graphics in this style.)
 
-**Brand Mascot: Roy**
-Roy is the official Inform Growth mascot. He appears across all touchpoints (website, social media, presentations, proposals).
-
-- **Appearance:** A 1930s rubber hose cartoon character with bendy, noodle-like limbs. Light grey skin. Confident, cheerful standing pose with a friendly open smile and classic pie-cut cartoon eyes. He has a small black oval nose in front views and a small pointed nose in profile.
-- **Attire:** Dark grey mechanic overalls over a vibrant green short-sleeved t-shirt. Large burnt orange cartoon gloves and matching bulbous burnt orange boots.
-- **The "Growth" Antenna:** A coiled, vintage copper-spring antenna on top of his head. At the tip: a small solid triangle glowing vibrant neon green, pointing upward. The antenna **sparks ROI Green** when it detects revenue leaks or dormant opportunities.
-- **The Head-Port:** Roy's head can flip open to reveal a glowing USB-C port. This represents the "Observability" and "AI Integration" phase of the engagement.
-- **The Primary Tool: The Plunger:** Roy carries a large, cartoonish industrial plunger (wooden handle, bulbous burnt orange rubber cup). This is the primary symbol of "funnel plumbing."
-- **The Overflowing Toolbox:** Roy often stands near a heavy-duty classic metal mechanic's toolbox (dark grey body, rust orange handles/clasps). It's stuffed full and overflowing with cartoon tools—rolled-up blueprints, data scrolls, and wrenches.
-- **Signature Pose:** Gesturing confidently with one hand toward a technical diagram while holding his plunger in the other.
-- **Presentation:** Die-cut vinyl sticker style with thick white border. Carbon gray backgrounds for dark mode interfaces.
+**Visual Approach:** Infrastructure-focused
+All visuals feature isometric plumbing systems, pipes, gauges, valves, and industrial elements. No mascot or character—pure technical infrastructure rendered in cartoon style. Die-cut vinyl sticker presentation with thick white border. Carbon gray backgrounds for dark mode interfaces.
 
 **Brand Colors:**
 
 | Role | Color Name | Hex | Usage |
 | :--- | :--- | :--- | :--- |
-| Primary Base | Carbon Gray | `#2B2B2B` | Backgrounds, heavy shadows, depth, Roy's overalls/toolbox body |
-| Success/Signal | ROI Green | `#39FF14` | CTAs, sparks, clean pipes, profit indicators, Roy's shirt/antenna tip |
-| Warning/Error | Rust Orange | `#D35400` | Leaky pipes, bad data, "Zombie" leads, Roy's gloves/boots/toolbox hardware/Plunger cup |
-| Contrast | Vintage Cream | `#F5F5DC` | Body text, Roy's gloves (clean), secondary highlights |
+| Primary Base | Carbon Gray | `#2B2B2B` | Backgrounds, heavy shadows, depth, toolbox body, dark pipes |
+| Success/Signal | ROI Green | `#39FF14` | CTAs, sparks, clean flowing liquid, profit indicators, success states |
+| Warning/Error | Rust Orange | `#D35400` | Leaky pipes, corrosion, bad data, "Zombie" leads, warning indicators |
+| Infrastructure | Light Gray | `#8A8A8A` | Pipe bodies, valve housings, gauge casings, structural elements |
+| Contrast | Vintage Cream | `#F5F5DC` | Body text, gauge faces, highlights, label backgrounds |
 | Border/Contrast | White | `#FFFFFF` | Borders, contrast elements, sticker outlines |
 
 ### The Value Proposition

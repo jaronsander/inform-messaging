@@ -12,6 +12,13 @@ This file tracks negative constraints and style corrections learned from the Fee
 *   **No "Cheerleading":** Maintain the clinical, engineering-focused tone. 
 *   **No Marketing Fluff:** Avoid words like "synergy," "holistic," or "unlocking potential."
 
+### 3. Visual Constraints (Infrastructure Assets)
+*   **No mascot or recurring character.** All visuals are infrastructure-focused.
+*   **Cyan (#00FFFF):** Background only for chroma-key removal. Zero cyan inside any sticker.
+*   **No text on images:** No labels, numbers, tick marks, or brand names. Dollar signs ($) OK.
+*   **Gauges:** Color zones only (Rust Orange danger / ROI Green safe). No numbers.
+*   **Element limits:** 6-8 max for illustrations, 3-4 for icons.
+
 ## ✅ Positive Constraints (The "Do" List)
 *   **Prioritize "Time to Fix":** Focus on debugging, observability, and system reliability.
 *   **Systems Over Tools:** Always emphasize that the process/system design dictates the tool choice.
