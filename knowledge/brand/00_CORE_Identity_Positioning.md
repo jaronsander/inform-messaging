@@ -40,7 +40,7 @@ All visuals feature isometric plumbing systems, pipes, gauges, valves, and indus
 | Success/Signal | ROI Green | `#39FF14` | CTAs, sparks, clean flowing liquid, profit indicators, success states |
 | Warning/Error | Rust Orange | `#D35400` | Leaky pipes, corrosion, bad data, "Zombie" leads, warning indicators |
 | Infrastructure | Light Gray | `#8A8A8A` | Pipe bodies, valve housings, gauge casings, structural elements |
-| Contrast | Vintage Cream | `#F5F5DC` | Body text, gauge faces, highlights, label backgrounds |
+| Contrast | Vintage Cream | `#F5E7D0` | Body text, gauge faces, highlights, label backgrounds |
 | Border/Contrast | White | `#FFFFFF` | Borders, contrast elements, sticker outlines |
 
 ### The Value Proposition

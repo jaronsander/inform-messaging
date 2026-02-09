@@ -20,10 +20,54 @@ We use a high-contrast "Dark Mode" palette to stand out in bright feeds.
 | Warning/Error | Rust Orange | `#D35400` | Leaks, corrosion, clogs, broken gauges, warnings |
 | Infrastructure | Light Gray | `#8A8A8A` | Pipe bodies, tools, structural elements |
 | Depth/Housing | Dark Gray | `#3A3A3A` | Panel bodies, housings, heavy structural elements |
-| Highlights | Vintage Cream | `#F5F5DC` | Gauge faces, paper, highlights, body text |
+| Highlights | Vintage Cream | `#F5E7D0` | Gauge faces, paper, highlights, body text |
 | Border/Contrast | White | `#FFFFFF` | Mandatory bold sticker outline around assets |
 | Linework | Black | `#000000` | Outlines (3-4px), structural lines |
 | Utility (BG Only) | Cyan | `#00FFFF` | Chroma-key background for generation — never inside stickers |
+
+## 🖥️ UI / Web Color System
+
+The core palette above governs illustration and sticker assets. For the website and UI, colors adapt per theme while preserving semantic meaning.
+
+### Core Palette (Shared)
+
+| Name | Hex | Usage |
+| :--- | :--- | :--- |
+| Carbon Gray | `#2B2B2B` | Dark backgrounds, text on light mode |
+| Carbon Gray Light | `#3A3A3A` | Card/section backgrounds (dark mode), muted text (light mode) |
+| ROI Green | `#39FF14` (dark) / `#1A6B35` (light) | Primary accent, CTAs, borders |
+| Rust Orange | `#D35400` | Secondary accent (both modes) |
+
+### Dark Mode
+
+| Role | Value |
+| :--- | :--- |
+| Page background | `#2B2B2B` Carbon Gray |
+| Section/card backgrounds | `#3A3A3A` Carbon Gray Light |
+| Text | `#FFFFFF` White |
+| Muted text | `#F5E7D0` Vintage Cream |
+| Accent | `#39FF14` ROI Green (neon) |
+| Accent glow | `rgba(57, 255, 20, 0.3)` |
+
+### Light Mode
+
+| Role | Value |
+| :--- | :--- |
+| Page background | `#F5E7D0` Vintage Cream |
+| Section backgrounds | `#F1E2CB` / `#E7D7BE` (warm cream variants) |
+| Card backgrounds | `#F4E6D0` / `#EADCC5` (warm cream variants) |
+| Text | `#2B2B2B` Carbon Gray |
+| Muted text | `#3A3A3A` Carbon Gray Light |
+| Accent | `#1A6B35` ROI Green (forest — replaces neon for readability on cream) |
+| Border subtle | `#C9B79A` (warm tan) |
+| Accent glow | `rgba(26, 107, 53, 0.2)` |
+
+### Mode Adaptation Rules
+
+*   **ROI Green adapts:** `#39FF14` neon on dark backgrounds, `#1A6B35` forest on light backgrounds. Same semantic role (success/CTA), different luminance.
+*   **Rust Orange stays constant:** `#D35400` has sufficient contrast on both Carbon Gray and Vintage Cream.
+*   **Vintage Cream inverts role:** Muted text color in dark mode, page background in light mode.
+*   **Carbon Gray inverts role:** Page background in dark mode, primary text color in light mode.
 
 ## 🔠 Typography
 
