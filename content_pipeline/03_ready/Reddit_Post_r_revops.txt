@@ -1,0 +1,17 @@
+TITLE: Built a scanner that finds silent pipeline leakage in HubSpot and Salesforce. Looking for beta testers and honest feedback.
+
+---
+
+Seven years in RevOps. The same thing keeps showing up at every company past Series A.
+
+CRMs degrade silently. Triggers break after workflow updates. Reps leave and deals go orphaned. Integrations fail quietly and lead scores freeze. Contacts re-engage but sit in the wrong lifecycle stage so nothing fires. No error. No alert. Just pipeline slowly leaking out the bottom while everyone assumes the leads went cold.
+
+By the time someone notices, it has been running for months.
+
+I built a scanner that goes straight into that layer. Read-only. Works on HubSpot and Salesforce. One scan gives you a report showing exactly where the leakage is and which deals and contacts are still recoverable right now.
+
+The tools that already exist (Clay, Gong, Outreach, Stack Moxie, Clari) all sit on top of the data layer and assume it is clean. None of them surface what has been silently broken for the past six months. That is the gap I am trying to fill.
+
+Where I want to take this: continuous monitoring so this kind of drift gets caught within 24 hours instead of months. The scan is step one.
+
+Two genuine asks before I keep building. Does something already do this well? I would rather know now than find out later. And if you want to be a beta tester: free scan, full report, all I ask for is 30 minutes of honest feedback. Comment or DM.

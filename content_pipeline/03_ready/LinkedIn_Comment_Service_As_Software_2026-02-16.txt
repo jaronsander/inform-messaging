@@ -1,0 +1,9 @@
+"People don't want more software. They want workflows that solve business problems." That line is the whole post in one sentence.
+
+The old model was: buy software, then hire people to operate it. The new model flips that. You hire experts who bring the right tools with them. The software serves the operator, not the other way around.
+
+That's the shift SaaS pricing models never accounted for. You don't need 3x more seats when the people running the stack actually know what to build. Lean teams with specialized, swappable tooling will outperform bloated orgs running enterprise platforms at half capacity. And AI is accelerating this by making the switching cost almost zero. Plug in what works, rip out what doesn't.
+
+I think 2026 is the year we stop measuring companies by the size of their tech stack and start measuring them by the throughput of their workflows.
+
+It's the thesis behind Inform Growth. I kept seeing revenue teams buried under tools they bought but never properly plumbed together. So I built a service around fixing that. Surface the leaks, refactor the infrastructure, keep the pressure steady. The software serves the service, not the other way around

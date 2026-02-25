@@ -1,0 +1,9 @@
+Point 2 is the one most operators get wrong.
+
+Not because they disagree. Because they don't know where the bucket is leaking.
+
+The instinct is to start at the CS layer and map the customer journey backward. But half the pipeline doesn't make it to CS. It dies upstream in the CRM. Orphaned leads with no owner. Contacts that converted but never moved to the right lifecycle stage. Leads that got "contacted" once, stalled, and silently fell off every report.
+
+The leak isn't just at renewal. It starts in the data model.
+
+I built a CRM forensics audit for exactly this, works on HubSpot and Salesforce. Looking for a few beta users to run it at no cost. The consistent finding: companies with attrition problems usually have a visibility problem first. The pipeline was already buried long before anyone knew to go looking for it.

@@ -1,0 +1,23 @@
+TITLE: Built a scanner that finds recoverable pipeline hiding in your Salesforce instance. Looking for 3 beta testers.
+
+---
+
+There are a lot of Salesforce tools right now. AI forecasting, rep productivity overlays, workflow monitoring. All of them sit on top of your CRM data and assume it's accurate.
+
+Nobody is watching the data layer underneath.
+
+Clari forecasts based on what is in your pipeline. Rattle alerts you when a field goes missing. Sweep documents and monitors your config. Scratchpad makes it faster to enter data. All useful. All assume the routing, ownership, and lifecycle stages underneath are set up and still working. None of them surface what has been quietly broken for six months.
+
+That is the gap I am trying to fill. Or maybe someone already filled it and I missed it. That is part of why I am posting this.
+
+Six years in RevOps. The same thing keeps surfacing in Salesforce instances. Orphaned opportunities with no owner. Contacts who hit a trigger condition but never got routed because a flow was deactivated and nobody noticed. Lead scores that stopped updating when an API integration failed. No error. No alert. Just silent leakage.
+
+By the time someone notices, it has been running for months.
+
+I built a scanner that goes straight into that layer. One scan. You get a report showing exactly where your Salesforce instance is leaking and which deals and leads are still recoverable right now. Not a plugin. Not another Salesforce-native app. Read-only.
+
+Where I want to take this: continuous monitoring for your revenue stack. Catch this kind of leakage within 24 hours instead of months. Datadog for RevOps, basically. The scan is step one.
+
+Tell me if I am solving the wrong problem. And tell me if something already does this well.
+
+If you want to be a beta tester: free scan, full report, 30 minutes of feedback. Comment or DM.

@@ -1,0 +1,17 @@
+TITLE: How much pipeline is your CRM silently dropping right now?
+
+---
+
+Seven years in RevOps. One thing I keep seeing at scaling startups.
+
+You hire reps. You buy tools. You run campaigns. And pipeline still underperforms. The first instinct is to pour more in: more leads, more sequences, more budget.
+
+But the leak is usually downstream. Somewhere between "lead enters CRM" and "rep touches it," something breaks quietly. No error. No alert. The lead just disappears.
+
+A form fill that hit the CRM but never enrolled in a sequence because a trigger broke after someone updated a workflow. A deal that went cold because the owner left and nobody reassigned it. A churned account that came back and re-engaged but sat in the wrong lifecycle stage so nothing fired.
+
+These are not edge cases. This is what happens when a CRM built for 10 people gets scaled to 50 without an audit.
+
+The tricky part is that nothing announces it. You just assume the leads went cold. Some of them did not.
+
+Has anyone dealt with this? How did you catch it and what did you do about it?

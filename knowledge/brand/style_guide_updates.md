@@ -24,3 +24,5 @@ This file tracks negative constraints and style corrections learned from the Fee
 *   **Systems Over Tools:** Always emphasize that the process/system design dictates the tool choice.
 *   **Bracketed Quips:** Use short, punchy side commentary in brackets. (Like this.) Avoid full sentences in brackets.
 *   **Plain Text Formatting:** For LinkedIn drafts, do NOT use Markdown headers (# Headline). Use spacing and capitalization for structure instead.
+*   **No Em Dashes or En Dashes:** Never use — or – in any content output. This applies to LinkedIn posts, email drafts, comments, and any other written content. Use a period, comma, parentheses, or line break instead.
+*   **No Conversational Filler:** Do not use openers like "Quick one," "Just a note," "Wanted to drop a line," or similar throat-clearing phrases. Get straight to the point.

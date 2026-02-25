@@ -1,0 +1,21 @@
+TITLE: Built a scanner that finds recoverable pipeline hiding in your HubSpot instance. Looking for 3 beta testers.
+
+---
+
+There are a hundred HubSpot plugins right now. AI enrichment, AI sequences, AI forecasting. All of them sit on top of your CRM data and assume it's accurate.
+
+Nobody is watching the data layer underneath.
+
+Clay enriches the records before they enter. Gong analyzes the calls after they happen. Outreach and MixMax run the sequences. Stack Moxie checks if the workflows fired. All useful. All assume the routing, lifecycle stages, and ownership underneath are working correctly. None of them surface what went silent three months ago and is still sitting there.
+
+That is the gap I am trying to fill. Or maybe someone already filled it and I missed it. That is part of why I am posting this.
+
+I have been doing RevOps for 7 years and the same thing keeps surfacing. Orphaned deals with no owner after a sales rep left. Contacts who re-engaged but whose lifecycle stage never reset. Sequences that stopped enrolling six months ago when someone integrated a new tool that writes to a new field. Lead scores that have not updated since an integration quietly failed. No error. No alert. Just silent leakage.
+
+I built a scanner that goes straight into that layer. One scan. You get a report showing exactly where your HubSpot instance is leaking and which deals and contacts are still recoverable right now. Not an AI wrapper. Read-only.
+
+Where I want to take this: continuous monitoring for your revenue stack. Catch this kind of leakage within 24 hours instead of months. Datadog for RevOps, basically. The scan is step one.
+
+Please tell me if I am solving the wrong problem. And tell me if something already does this well.
+
+If you want to be a beta tester: free scan, full report, 30 minutes of feedback. Comment or DM.

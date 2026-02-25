@@ -11,13 +11,13 @@
 
 We don't sell "packages" or "hours." We sell **Revenue Recovery** and **Flow Assurance**.
 
-### Tier 1: The "Deep-Scan" Leak Detection (Immediate ROI)
-**The Hook:** "I’m going to send a camera down your pipes."
-**What it is:** Forensic analysis of raw CRM data using Python/Pandas to find "orphaned" leads, broken syncs, and silent leakage.
-**The Promise:** "I will find at least $50k in 'Orphaned' pipeline or you don't pay."
+### Tier 1: CRM & CS Reactivation (Immediate ROI)
+**The Hook:** "I'm going to surface the pipeline your system buried."
+**What it is:** Forensic recovery of hidden pipeline buried in existing CRM and CS data — orphaned leads, dead lifecycle stages, broken syncs, and dormant accounts with reactivation potential.
+**The Promise:** "I will find at least $100K in recoverable pipeline or you don't pay."
 **Deliverables:**
-1.  **Lost Revenue Manifest:** CSV of high-value leads stuck in "digital limbo."
-2.  **The Leak Report:** Technical diagram of logic failures.
+1.  **Reactivation Manifest:** Prioritized list of recoverable accounts with estimated pipeline value.
+2.  **The Leak Report:** Technical diagram of where and why pipeline went dormant.
 **Investment:** $4,000 - $8,000 (Fixed) | **Timeline:** 1-2 Weeks
 
 ### Tier 2: The Pipeline Re-Architecture (The Fix)

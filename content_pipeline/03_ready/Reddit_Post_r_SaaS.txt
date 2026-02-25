@@ -1,0 +1,21 @@
+TITLE: Your pipeline number is probably wrong and your CRM won't tell you.
+
+---
+
+Seven years in RevOps across B2B SaaS. One thing I keep seeing when companies are preparing for a raise or going through due diligence.
+
+The pipeline number in the CRM is not the real pipeline number.
+
+Not because anyone lied. Because CRMs degrade silently. Tools pile up, workflows get patched, someone leaves, an integration quietly fails. And the system that was clean at Series A is leaking by the time you hit Series B.
+
+Orphaned deals with no owner. Contacts that re-engaged but sat in the wrong lifecycle stage so nothing triggered. Sequences that stopped enrolling after a workflow update nobody documented. Lead scores frozen since an API broke six months ago.
+
+None of it shows up as an error. It just shows up as a pipeline number that does not match what your reps are actually working.
+
+From the investor side this is a red flag. From the founder side it is usually invisible until someone starts asking hard questions about conversion rates and deal velocity.
+
+I built a scanner that surfaces exactly this. Read-only. Works on HubSpot and Salesforce. One scan, you get a report showing where the leakage is and which pipeline is still recoverable.
+
+Where I want to take this: continuous monitoring so this kind of drift gets caught within 24 hours instead of months before a board meeting. Datadog for RevOps, basically. The scan is step one.
+
+Genuine question for anyone who has been through a raise or done due diligence: how often is CRM data actually clean? And is anyone solving for this already?

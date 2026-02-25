@@ -57,6 +57,43 @@ allowed-tools: Read, Write, Bash, Glob, Replace
 
 ---
 
+---
+
+### Mode 3: Image Asset Generation
+
+**Trigger:** User says "Generate image for [post]" or "Create asset for [post]".
+
+1. **Read:** Load the finalized post from `content_pipeline/03_ready/`.
+2. **Derive Visual Concept:**
+   - Identify the post's core metaphor (e.g., "bloated all-in-one platform" → tangled/cracking pipes).
+   - Map to an existing prompt in `.gemini/prompts/icon_assets/` if one fits.
+   - If no existing prompt fits, write a new one following the pattern below.
+3. **Write Prompt:** Follow the rules from `.gemini/prompts/infrastructure_assets/README.md`:
+   - Die-cut border follows IRREGULAR SILHOUETTE — NOT a circle, NOT a rectangle, NOT a badge.
+   - Cyan (#00FFFF) = background ONLY, in a SEPARATE labeled section. ZERO cyan inside the sticker.
+   - No text, faces, or gradients. Flat vector, 1930s rubber hose style.
+   - 3-4 elements max for icons.
+4. **Generate:** Call nano-banana with the prompt. Save output PNG to `content_pipeline/assets/social/`.
+5. **Append to post file:** Add an `## Image Asset` section at the bottom of the `03_ready/` post file containing:
+   - **Concept:** one-sentence description of the visual metaphor
+   - **Canva layout:** canvas size (1200×627px), background color, sticker placement, text overlay (hook line in ROI Green, secondary in Vintage Cream). No more than 2 text elements. Mobile-first.
+   - **Generation prompt:** the full nano-banana prompt inline
+
+**Concept-to-Prompt Mapping (Quick Reference):**
+
+| Post Theme | Reach for First |
+|---|---|
+| Data debt / dirty CRM | `03_data_debt_pipes.md` |
+| Broken reporting / no visibility | `02_broken_gauge.md` |
+| AI / automation clog | `01_ai_clog.md` |
+| Revenue leakage / lost leads | `09_rusty_pipe.md` |
+| Clean stack / healthy flow | `08_clean_pipe.md` |
+| Best-in-breed / tight integration | Write new prompt |
+| Observability / monitoring | `04_gauge_antenna.md` |
+| Manual work / time debt | `06_time_debt.md` |
+
+---
+
 ## Critical Files
 
 *   `content_pipeline/INSTRUCTIONS_CONTENT_LOOP.md`: The user manual for this workflow.

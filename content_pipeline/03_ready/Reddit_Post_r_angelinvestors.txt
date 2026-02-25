@@ -1,0 +1,15 @@
+TITLE: Do investors account for CRM data quality when evaluating a company?
+
+---
+
+I work with scaling B2B SaaS companies on their revenue infrastructure. A pattern I keep seeing when companies are preparing for a raise.
+
+The pipeline number being reported does not match what is actually in the CRM. Not because anyone fabricated it. CRMs degrade silently over time. Someone leaves and their deals go orphaned. A workflow gets patched and a trigger breaks. An integration fails and lead scores stop updating. No error. No alert. The number just quietly becomes fiction.
+
+By the time a company is preparing to raise, this has usually been running for months. The reported pipeline looks healthy. What is actually recoverable underneath it is a different story.
+
+Almost none of this shows up in standard due diligence because nobody thinks to look at CRM data quality as a line item.
+
+Genuine question for investors here: do you account for this? Is there a point where you actually audit the CRM, or does it only become visible after you are already in?
+
+I am building a scanner that surfaces this kind of data debt before it becomes a problem. Curious whether that would be useful to investors during due diligence, or whether this is just accepted as part of the risk.

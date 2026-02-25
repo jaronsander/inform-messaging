@@ -205,6 +205,7 @@ These assets are designed for the Inform Growth website as part of the infrastru
 - `content_pipeline/assets/infrastructure/icon_supporting_rusty_pipe.png`: Problem state. Corroded pipe segment with Rust Orange patches.
 - `content_pipeline/assets/infrastructure/icon_supporting_flowing_data.png`: ROI Green particles and dollar signs ($) flowing along a path.
 - `content_pipeline/assets/infrastructure/icon_supporting_stuck_data.png`: U-shaped pipe trap with stagnant Rust Orange liquid and stuck dollar signs.
+- `content_pipeline/assets/infrastructure/icon_supporting_modular_junction.png`: Four modular pipes of different sizes connecting at a central hub. ROI Green flow runs clean through all four.
 
 ### Case Study Card Icons
 - `content_pipeline/assets/infrastructure/icon_case_study_intelligent_routing.png`: Y-junction with smart splitting indicators.

@@ -1,0 +1,7 @@
+@Andrew Beck @Eddie Reynolds attrition metrics aren't the problem. NRR, GRR, logo churn. The frameworks exist.
+
+The real reason this is a hard sell is simpler. New business is one number with one direction. Easy to own, easy to defend, easy to comp a team around.
+
+Retention implicates five teams at once. CS, product, ICP definition, onboarding, post-sale. Nobody wants to own a problem that distributed. So it becomes everybody's problem, which means nobody's.
+
+CROs default to new biz not because they can't see the cost of churn. They default to it because it's the cleanest problem to solve. The highest ROI move and the simplest move are rarely the same thing.
